@@ -1,0 +1,1495 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Raleway');
+body {
+    background: url('../../img/nature-mountain-4k.jpg') no-repeat;
+    background-size: cover;
+    /*filter: blur(8px);*/
+}
+
+
+/*.blur {
+    -webkit-filter: blur(8px);
+    -moz-filter: blur(8px);
+    -ms-filter: blur(8px);
+    filter: url(#blur);
+    filter: blur(8px);
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
+    transition-duration: 3s;
+    -webkit-transition: 3s -webkit-filter linear;
+    -moz-transition: 3s -moz-filter linear;
+     transition: 3s -webkit-filter linear;
+}*/
+
+    .blur::after(4s) {
+        -webkit-filter: blur(0px);
+        -moz-filter: blur(0px);
+        -ms-filter: blur(0px);
+        filter: url(#blur);
+        filter: blur(0px);
+    }
+
+/*https://stackoverflow.com/questions/37776248/css-reverse-a-blur-fade-out-effect */
+/*.blur.out {
+    -webkit-filter: blur(8px);
+    -webkit-transform: scale(1.4, 1.4);
+    opacity: 0.25;
+    -webkit-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+    visibility: hidden;
+}
+
+.blur.in {
+    -webkit-filter: blur(0px);
+    -webkit-transform: scale(1.4, 1.4);
+    -webkit-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+    visibility: visible;
+}*/
+@media only screen and (max-width: 350px) {
+    body {
+        background: url('../../img/nature-mountain2-4k.jpg') no-repeat;
+        background-size: cover;
+    }
+
+    form.box {
+        width: 220px;
+        height: 210px;
+        padding: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 30px;
+    }
+
+        form.box h1 {
+            font-size: 20pt;
+            position: relative;
+            top: -30px;
+        }
+
+        form.box input[type = "email"], form.box input[type = "password"] {
+            position: relative;
+            top: -30px;
+            border: 0;
+            background: none;
+            display: block;
+            margin: 15px auto;
+            border: 2px solid #3498db;
+            padding: 9px 7px;
+            width: 230px;
+            outline: none;
+            border-radius: 24px;
+            transition: 0.25s;
+        }
+
+            form.box input[type = "email"]:focus, form.box input[type = "password"]:focus {
+                width: 200px;
+            }
+
+        form.box input[type = "submit"] {
+            position: relative;
+            border: 0;
+            background: none;
+            display: block;
+            margin: -30px auto 10px auto;
+            padding: 4px 19px 6px 19px;
+            outline: none;
+            border: 2px solid #2ecc71;
+            border-radius: 24px;
+            transition: 0.25s;
+            bottom: -10px;
+            font-size: 12pt;
+        }
+
+    div.checkbox {
+        position: relative;
+        top: -35px;
+        left: -68px;
+        font-size: 10pt;
+    }
+
+    .RazorEsqSenha {
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        font-size: 8pt;
+    }
+
+    .RazorNaoConta {
+        position: absolute;
+        left: 10px;
+        bottom: 10px;
+        font-size: 8pt;
+    }
+    /* Register */
+    form.box2 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 302px;
+        height: 530px;
+        padding: 40px;
+        background: rgba(0,0,0,.8);
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.5);
+        border-radius: 10px;
+        margin-top: 35px;
+        margin-bottom: 15px;
+        font-family: "Raleway", sans-serif;
+        /*font-size: 13pt;*/
+        -webkit-animation: fadein 1.5s linear 1 normal forwards;
+    }
+
+        form.box2 h1 {
+            position: relative;
+            top: -41px;
+            margin: 0 0 10px;
+            padding: 0;
+            color: white;
+            text-align: center;
+            font-size: 20pt;
+        }
+
+        form.box2 div.inputBox {
+            position: relative;
+        }
+
+            form.box2 div.inputBox input {
+                position: relative;
+                top: -39px;
+                width: 100%;
+                padding: 10px 0;
+                font-size: 16px;
+                color: white;
+                letter-spacing: 1px;
+                margin-bottom: 20px;
+                border: none;
+                border-bottom: 1px solid white;
+                outline: none;
+                background: transparent;
+            }
+
+            form.box2 div.inputBox label {
+                position: absolute;
+                top: -37px;
+                left: 0;
+                letter-spacing: 1px;
+                padding: 10px 0;
+                font-size: 12px;
+                color: white;
+                pointer-events: none;
+                transition: .5s;
+            }
+
+            form.box2 div.inputBox input:focus ~ label, form.box2 div.inputBox input:valid ~ label {
+                top: -57px;
+                left: 0;
+                color: #03a9f4;
+                font-size: 12px;
+            }
+
+
+
+        form.box2 input[type = "submit"] {
+            position: relative;
+            border: 0;
+            background: none;
+            display: block;
+            margin: -30px auto 25px auto;
+            text-align: center;
+            border: 2px solid #2ecc71;
+            padding: 8px 23px 10px 23px;
+            outline: none;
+            color: white;
+            border-radius: 24px;
+            transition: 0.25s;
+            cursor: pointer;
+            bottom: -9px;
+            font-size: 12pt;
+        }
+
+        form.box2 div.checkbox2 {
+            position: relative;
+            left: -63px;
+            bottom: -75px;
+        }
+
+        form.box2 div#RazorTermos {
+            max-width: 10px;
+            position: relative;
+            top: -113px;
+            margin-top: 30px;
+            color: white;
+            font-family: "Raleway", sans-serif;
+            font-size: 10pt;
+        }
+}
+
+    @media only screen and (min-width: 351px) and (max-width: 567px) {
+        body {
+            background: url('../../img/nature-mountain3-4k.jpg') no-repeat;
+            background-size: cover;
+        }
+
+        form.box {
+            width: 290px;
+            height: 250px;
+            padding: 30px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 30px;
+        }
+
+            form.box h1 {
+                font-size: 20pt;
+                position: relative;
+            }
+
+            form.box input[type = "email"], form.box input[type = "password"] {
+                position: relative;
+                top: -10px;
+                border: 0;
+                background: none;
+                display: block;
+                margin: 20px auto;
+                border: 2px solid #3498db;
+                padding: 10px 6px;
+                width: 300px;
+                outline: none;
+                border-radius: 24px;
+                transition: 0.25s;
+            }
+
+                form.box input[type = "email"]:focus, form.box input[type = "password"]:focus {
+                    width: 200px;
+                }
+
+            form.box input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -40px auto 10px auto;
+                padding: 4px 19px 6px 19px;
+                outline: none;
+                border: 2px solid #2ecc71;
+                border-radius: 24px;
+                transition: 0.25s;
+                bottom: -40px;
+                font-size: 12pt;
+            }
+
+        div.checkbox {
+            position: relative;
+            top: -20px;
+            left: -93px;
+            font-size: 10pt;
+        }
+
+        .RazorEsqSenha {
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            font-size: 10pt;
+        }
+
+        .RazorNaoConta {
+            position: absolute;
+            left: 10px;
+            bottom: 10px;
+            font-size: 10pt;
+        }
+
+        /* Register */
+
+
+        form.box2 {
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 350px;
+            height: 530px;
+            padding: 40px;
+            background: rgba(0,0,0,.8);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.5);
+            border-radius: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            font-family: "Raleway", sans-serif;
+            /*font-size: 13pt;*/
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+            form.box2 h1 {
+                position: relative;
+                top: -41px;
+                margin: 0 0 10px;
+                padding: 0;
+                color: white;
+                text-align: center;
+                font-size: 20pt;
+            }
+
+            form.box2 div.inputBox {
+                position: relative;
+            }
+
+                form.box2 div.inputBox input {
+                    position: relative;
+                    top: -39px;
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 16px;
+                    color: white;
+                    letter-spacing: 1px;
+                    margin-bottom: 20px;
+                    border: none;
+                    border-bottom: 1px solid white;
+                    outline: none;
+                    background: transparent;
+                }
+
+                form.box2 div.inputBox label {
+                    position: absolute;
+                    top: -37px;
+                    left: 0;
+                    letter-spacing: 1px;
+                    padding: 10px 0;
+                    font-size: 12px;
+                    color: white;
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                form.box2 div.inputBox input:focus ~ label, form.box2 div.inputBox input:valid ~ label {
+                    top: -57px;
+                    left: 0;
+                    color: #03a9f4;
+                    font-size: 12px;
+                }
+
+
+
+            form.box2 input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -30px auto 25px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 8px 23px 10px 23px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: -9px;
+                font-size: 12pt;
+            }
+
+            form.box2 div.checkbox2 {
+                position: relative;
+                left: -63px;
+                bottom: -75px;
+            }
+
+            form.box2 div#RazorTermos {
+                max-width: 10px;
+                position: relative;
+                top: -113px;
+                margin-top: 30px;
+                color: white;
+                font-family: "Raleway", sans-serif;
+                font-size: 10pt;
+            }
+    }
+
+
+    @media only screen and (min-width: 568px) and (max-width: 690px) {
+        form.box {
+            width: 480px;
+            height: 235px;
+            padding: 30px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,.8);
+            border-radius: 30px;
+            text-align: center;
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+            form.box h1 {
+                color: white;
+                text-transform: uppercase;
+                font-weight: bolder;
+                font-size: 20pt;
+                position: relative;
+                top: -32px;
+            }
+
+            form.box input[type = "email"], form.box input[type = "password"] {
+                position: relative;
+                top: -32px;
+                border: 0;
+                background: none;
+                display: block;
+                margin: 15px auto;
+                text-align: center;
+                border: 2px solid #3498db;
+                padding: 12px 11px;
+                width: 380px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+            }
+
+                form.box input[type = "email"]:focus, form.box input[type = "password"]:focus {
+                    width: 260px;
+                    border-color: #2ecc71;
+                }
+
+            form.box input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -28px auto 10px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 6px 21px 8px 20px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: -20px;
+                font-size: 15pt;
+            }
+
+        div.checkbox {
+            position: relative;
+            top: -31px;
+            left: -115px;
+            font-size: 13pt;
+        }
+
+        .RazorEsqSenha {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            font-size: 12pt;
+        }
+
+        .RazorNaoConta {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            left: 10px;
+            bottom: 10px;
+            font-size: 12pt;
+        }
+
+        /* Register */
+
+
+        form.box2 {
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 600px;
+            height: 590px;
+            padding: 40px;
+            background: rgba(0,0,0,.8);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.5);
+            border-radius: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            font-family: "Raleway", sans-serif;
+            /*font-size: 13pt;*/
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+            form.box2 h1 {
+                position: relative;
+                top: -31px;
+                margin: 0 0 10px;
+                padding: 0;
+                color: white;
+                text-align: center;
+                font-size: 28pt;
+            }
+
+            form.box2 div.inputBox {
+                position: relative;
+            }
+
+                form.box2 div.inputBox input {
+                    position: relative;
+                    top: -17px;
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 18px;
+                    color: white;
+                    letter-spacing: 1px;
+                    margin-bottom: 15px;
+                    border: none;
+                    border-bottom: 1px solid white;
+                    outline: none;
+                    background: transparent;
+                }
+
+                form.box2 div.inputBox label {
+                    position: absolute;
+                    top: -15px;
+                    left: 0;
+                    letter-spacing: 1px;
+                    padding: 10px 0;
+                    font-size: 17px;
+                    color: white;
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                form.box2 div.inputBox input:focus ~ label, form.box2 div.inputBox input:valid ~ label {
+                    top: -28px;
+                    left: 0;
+                    color: #03a9f4;
+                    font-size: 12px;
+                }
+
+
+
+            form.box2 input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -30px auto 25px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 9px 24px 11px 24px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: -52px;
+                font-size: 13pt;
+            }
+
+            form.box2 div.checkbox2 {
+                position: relative;
+                left: -63px;
+                bottom: -102px;
+            }
+
+            form.box2 div#RazorTermos {
+                max-width: 10px;
+                position: relative;
+                top: -105px;
+                margin-top: 30px;
+                color: white;
+                font-family: "Raleway", sans-serif;
+                font-size: 13pt;
+            }
+    }
+
+    @media only screen and (min-width: 691px) and (max-width: 819px) {
+        body {
+            background: url('../../img/nature-mountain5-4k.jpg') no-repeat;
+            background-size: cover;
+        }
+
+        form.box {
+            width: 600px;
+            height: 290px;
+            padding: 30px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,.8);
+            border-radius: 30px;
+            text-align: center;
+        }
+
+            form.box h1 {
+                color: white;
+                text-transform: uppercase;
+                font-weight: bolder;
+                font-size: 30pt;
+                position: relative;
+                top: -20px;
+            }
+
+            form.box input[type = "email"], form.box input[type = "password"] {
+                position: relative;
+                top: -20px;
+                border: 0;
+                background: none;
+                display: block;
+                margin: 25px auto;
+                text-align: center;
+                border: 2px solid #3498db;
+                padding: 15px 11px;
+                width: 410px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+            }
+
+                form.box input[type = "email"]:focus, form.box input[type = "password"]:focus {
+                    width: 290px;
+                    border-color: #2ecc71;
+                }
+
+            form.box input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: 13px auto 10px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 7px 22px 9px 21px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: 15px;
+                font-size: 15pt;
+            }
+
+        div.checkbox {
+            position: relative;
+            top: -28px;
+            left: -128px;
+            font-size: 13pt;
+        }
+
+        .RazorEsqSenha {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            font-size: 14pt;
+        }
+
+        .RazorNaoConta {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            left: 10px;
+            bottom: 10px;
+            font-size: 14pt;
+        }
+
+        /* Register */
+
+
+        form.box2 {
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 700px;
+            height: 610px;
+            padding: 40px;
+            background: rgba(0,0,0,.8);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.5);
+            border-radius: 20px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            font-family: "Raleway", sans-serif;
+            /*font-size: 13pt;*/
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+            form.box2 h1 {
+                position: relative;
+                top: -31px;
+                margin: 0 0 10px;
+                padding: 0;
+                color: white;
+                text-align: center;
+                font-size: 28pt;
+            }
+
+            form.box2 div.inputBox {
+                position: relative;
+            }
+
+                form.box2 div.inputBox input {
+                    position: relative;
+                    top: -17px;
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 18px;
+                    color: white;
+                    letter-spacing: 1px;
+                    margin-bottom: 15px;
+                    border: none;
+                    border-bottom: 1px solid white;
+                    outline: none;
+                    background: transparent;
+                }
+
+                form.box2 div.inputBox label {
+                    position: absolute;
+                    top: -15px;
+                    left: 0;
+                    letter-spacing: 1px;
+                    padding: 10px 0;
+                    font-size: 17px;
+                    color: white;
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                form.box2 div.inputBox input:focus ~ label, form.box2 div.inputBox input:valid ~ label {
+                    top: -28px;
+                    left: 0;
+                    color: #03a9f4;
+                    font-size: 12px;
+                }
+
+
+
+            form.box2 input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -30px auto 25px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 9px 24px 11px 24px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: -72px;
+                font-size: 13pt;
+            }
+
+            form.box2 div.checkbox2 {
+                position: relative;
+                left: -63px;
+                bottom: -132px;
+            }
+
+            form.box2 div#RazorTermos {
+                max-width: 10px;
+                position: relative;
+                top: -125px;
+                margin-top: 30px;
+                color: white;
+                font-family: "Raleway", sans-serif;
+                font-size: 13pt;
+            }
+    }
+
+    @media only screen and (min-width: 820px) and (max-width: 993px) {
+        body {
+            background: url('../../img/nature-mountain6-4k.jpg') no-repeat;
+            background-size: cover;
+        }
+
+        form.box {
+            width: 600px;
+            height: 345px;
+            padding: 30px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,.8);
+            border-radius: 30px;
+            text-align: center;
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+        @-webkit-keyframes fadein {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        form.box h1 {
+            color: white;
+            text-transform: uppercase;
+            font-weight: bolder;
+            font-size: 30pt;
+            position: relative;
+            top: 10px;
+        }
+
+        form.box input[type = "email"], form.box input[type = "password"] {
+            position: relative;
+            top: 30px;
+            border: 0;
+            background: none;
+            display: block;
+            margin: 25px auto;
+            text-align: center;
+            border: 2px solid #3498db;
+            padding: 15px 11px;
+            width: 410px;
+            outline: none;
+            color: white;
+            border-radius: 24px;
+            transition: 0.25s;
+        }
+
+            form.box input[type = "email"]:focus, form.box input[type = "password"]:focus {
+                width: 290px;
+                border-color: #2ecc71;
+            }
+
+        form.box input[type = "submit"] {
+            position: relative;
+            border: 0;
+            background: none;
+            display: block;
+            margin: 13px auto 10px auto;
+            text-align: center;
+            border: 2px solid #2ecc71;
+            padding: 7px 22px 9px 21px;
+            outline: none;
+            color: white;
+            border-radius: 24px;
+            transition: 0.25s;
+            cursor: pointer;
+            bottom: -40px;
+            font-size: 15pt;
+        }
+
+        div.checkbox {
+            position: relative;
+            top: 28px;
+            left: -128px;
+            font-size: 13pt;
+        }
+
+        .RazorEsqSenha {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            font-size: 14pt;
+        }
+
+        .RazorNaoConta {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            left: 10px;
+            bottom: 10px;
+            font-size: 14pt;
+        }
+
+        /* Register */
+
+
+        form.box2 {
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 700px;
+            height: 610px;
+            padding: 40px;
+            background: rgba(0,0,0,.8);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.5);
+            border-radius: 20px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            font-family: "Raleway", sans-serif;
+            /*font-size: 13pt;*/
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+            form.box2 h1 {
+                position: relative;
+                top: -31px;
+                margin: 0 0 10px;
+                padding: 0;
+                color: white;
+                text-align: center;
+                font-size: 28pt;
+            }
+
+            form.box2 div.inputBox {
+                position: relative;
+            }
+
+                form.box2 div.inputBox input {
+                    position: relative;
+                    top: -17px;
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 18px;
+                    color: white;
+                    letter-spacing: 1px;
+                    margin-bottom: 15px;
+                    border: none;
+                    border-bottom: 1px solid white;
+                    outline: none;
+                    background: transparent;
+                }
+
+                form.box2 div.inputBox label {
+                    position: absolute;
+                    top: -15px;
+                    left: 0;
+                    letter-spacing: 1px;
+                    padding: 10px 0;
+                    font-size: 17px;
+                    color: white;
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                form.box2 div.inputBox input:focus ~ label, form.box2 div.inputBox input:valid ~ label {
+                    top: -28px;
+                    left: 0;
+                    color: #03a9f4;
+                    font-size: 12px;
+                }
+
+
+
+            form.box2 input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -30px auto 25px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 9px 24px 11px 24px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: -72px;
+                font-size: 13pt;
+            }
+
+            form.box2 div.checkbox2 {
+                position: relative;
+                left: -63px;
+                bottom: -132px;
+            }
+
+            form.box2 div#RazorTermos {
+                max-width: 10px;
+                position: relative;
+                top: -125px;
+                margin-top: 30px;
+                color: white;
+                font-family: "Raleway", sans-serif;
+                font-size: 13pt;
+            }
+    }
+
+    @media only screen and (min-width: 1010px) and (max-width: 1210px) {
+        body {
+            background: url('../../img/nature-mountain1-4k.jpg') no-repeat;
+            background-size: cover;
+        }
+
+        form.box {
+            width: 600px;
+            height: 350px;
+            padding: 30px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,.8);
+            border-radius: 30px;
+            text-align: center;
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+        @-webkit-keyframes fadein {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        form.box h1 {
+            color: white;
+            text-transform: uppercase;
+            font-weight: bolder;
+            font-size: 30pt;
+            position: relative;
+            top: 10px;
+        }
+
+        form.box input[type = "email"], form.box input[type = "password"] {
+            position: relative;
+            top: 30px;
+            border: 0;
+            background: none;
+            display: block;
+            margin: 25px auto;
+            text-align: center;
+            border: 2px solid #3498db;
+            padding: 15px 11px;
+            width: 410px;
+            outline: none;
+            color: white;
+            border-radius: 24px;
+            transition: 0.25s;
+        }
+
+            form.box input[type = "email"]:focus, form.box input[type = "password"]:focus {
+                width: 290px;
+                border-color: #2ecc71;
+            }
+
+        form.box input[type = "submit"] {
+            position: relative;
+            border: 0;
+            background: none;
+            display: block;
+            margin: 13px auto 10px auto;
+            text-align: center;
+            border: 2px solid #2ecc71;
+            padding: 7px 22px 9px 21px;
+            outline: none;
+            color: white;
+            border-radius: 24px;
+            transition: 0.25s;
+            cursor: pointer;
+            bottom: -40px;
+            font-size: 15pt;
+        }
+
+        div.checkbox {
+            position: relative;
+            top: 28px;
+            left: -128px;
+            font-size: 13pt;
+        }
+
+        .RazorEsqSenha {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            font-size: 14pt;
+        }
+
+        .RazorNaoConta {
+            color: #808080;
+            text-decoration: none;
+            position: absolute;
+            left: 10px;
+            bottom: 10px;
+            font-size: 14pt;
+        }
+
+        /* Register */
+
+
+        form.box2 {
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 700px;
+            height: 610px;
+            padding: 40px;
+            background: rgba(0,0,0,.8);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.5);
+            border-radius: 20px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            font-family: "Raleway", sans-serif;
+            /*font-size: 13pt;*/
+            -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        }
+
+            form.box2 h1 {
+                position: relative;
+                top: -31px;
+                margin: 0 0 10px;
+                padding: 0;
+                color: white;
+                text-align: center;
+                font-size: 28pt;
+            }
+
+            form.box2 div.inputBox {
+                position: relative;
+            }
+
+                form.box2 div.inputBox input {
+                    position: relative;
+                    top: -17px;
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 18px;
+                    color: white;
+                    letter-spacing: 1px;
+                    margin-bottom: 15px;
+                    border: none;
+                    border-bottom: 1px solid white;
+                    outline: none;
+                    background: transparent;
+                }
+
+                form.box2 div.inputBox label {
+                    position: absolute;
+                    top: -15px;
+                    left: 0;
+                    letter-spacing: 1px;
+                    padding: 10px 0;
+                    font-size: 17px;
+                    color: white;
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                form.box2 div.inputBox input:focus ~ label, form.box2 div.inputBox input:valid ~ label {
+                    top: -28px;
+                    left: 0;
+                    color: #03a9f4;
+                    font-size: 12px;
+                }
+
+
+
+            form.box2 input[type = "submit"] {
+                position: relative;
+                border: 0;
+                background: none;
+                display: block;
+                margin: -30px auto 25px auto;
+                text-align: center;
+                border: 2px solid #2ecc71;
+                padding: 9px 24px 11px 24px;
+                outline: none;
+                color: white;
+                border-radius: 24px;
+                transition: 0.25s;
+                cursor: pointer;
+                bottom: -72px;
+                font-size: 13pt;
+            }
+
+            form.box2 div.checkbox2 {
+                position: relative;
+                left: -63px;
+                bottom: -132px;
+            }
+
+            form.box2 div#RazorTermos {
+                max-width: 10px;
+                position: relative;
+                top: -125px;
+                margin-top: 30px;
+                color: white;
+                font-family: "Raleway", sans-serif;
+                font-size: 13pt;
+            }
+    }
+    /*Login*/
+    .box {
+        width: 550px;
+        padding: 40px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: rgba(0,0,0,.8);
+        border-radius: 25px;
+        text-align: center;
+        -webkit-animation: fadein 1.5s linear 1 normal forwards;
+    }
+
+    @-webkit-keyframes fadein {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    .box h1 {
+        color: white;
+        text-transform: uppercase;
+        font-weight: bolder;
+        position: relative;
+        top: -15px;
+    }
+
+    .box input[type = "email"], .box input[type = "password"] {
+        border: 0;
+        background: none;
+        display: block;
+        margin: 30px auto;
+        text-align: center;
+        border: 2px solid #3498db;
+        padding: 14px 10px;
+        width: 400px;
+        outline: none;
+        color: white;
+        border-radius: 24px;
+        transition: 0.25s;
+    }
+
+        .box input[type = "email"]:focus, .box input[type = "password"]:focus {
+            width: 280px;
+            border-color: #2ecc71;
+        }
+
+    .box input[type = "submit"] {
+        position: relative;
+        border: 0;
+        background: none;
+        display: block;
+        margin: 30px auto 25px auto;
+        text-align: center;
+        border: 2px solid #2ecc71;
+        padding: 10px 25px 12px 25px;
+        outline: none;
+        color: white;
+        border-radius: 24px;
+        transition: 0.25s;
+        cursor: pointer;
+        bottom: -40px;
+        font-size: 15pt;
+    }
+
+        .box input[type = "submit"]:hover {
+            background: #2ecc71;
+        }
+    /*.box input[type = "checkbox"] {
+        position: absolute;
+        left: 60px;
+        bottom:107px;
+    }*/
+
+    .checkbox {
+        position: absolute;
+        left: 110px;
+    }
+
+    .checkbox1:hover, .box label:hover {
+        cursor: pointer;
+    }
+
+    .box label {
+        /*position: absolute;
+        top:253px;
+        margin-top:30px;
+        left: 80px;*/
+        position: relative;
+        top: -1px;
+        color: white;
+    }
+
+    .RazorEsqSenha {
+        color: #808080;
+        text-decoration: none;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+
+    .RazorNaoConta {
+        color: #808080;
+        text-decoration: none;
+        position: absolute;
+        left: 10px;
+        bottom: 10px;
+    }
+
+        .RazorEsqSenha:hover, .RazorNaoConta:hover {
+            text-decoration: underline;
+        }
+
+    /*backToIndex*/
+
+    .backToIndex a {
+        width: 89px;
+        height: 71px;
+        display: block;
+        background: url('../../img/voltarIndex.png') no-repeat;
+        position: fixed;
+        top: 6.5px;
+        left: 6.5px;
+        z-index: 99999;
+    }
+
+    .backToIndex:hover a {
+        cursor: pointer;
+        transition: 0.5s;
+        background-position: 0 -60px;
+        width: 100px;
+        height: 100px;
+        background: url('../../img/logo1.png') no-repeat;
+    }
+
+    /*Register*/
+
+
+    .box2 {
+        -webkit-animation: fadein 1.5s linear 1 normal forwards;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 800px;
+        /*height:650px;*/
+        padding: 40px;
+        background: rgba(0,0,0,.8);
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.5);
+        border-radius: 10px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+        font-family: "Raleway", sans-serif;
+        font-size: 15pt;
+    }
+
+    @-webkit-keyframes fadein {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    .box2 h1 {
+        margin: 0 0 30px;
+        padding: 0;
+        color: white;
+        text-align: center;
+    }
+
+    .box2 .inputBox {
+        position: relative;
+    }
+
+        .box2 .inputBox input {
+            width: 100%;
+            padding: 10px 0;
+            font-size: 16px;
+            color: white;
+            letter-spacing: 1px;
+            margin-bottom: 30px;
+            border: none;
+            border-bottom: 1px solid white;
+            outline: none;
+            background: transparent;
+        }
+
+        .box2 .inputBox label {
+            position: absolute;
+            top: 0;
+            left: 0;
+            letter-spacing: 1px;
+            padding: 10px 0;
+            font-size: 16px;
+            color: white;
+            pointer-events: none;
+            transition: .5s;
+        }
+
+        .box2 .inputBox input:focus ~ label, .box2 .inputBox input:valid ~ label {
+            top: -18px;
+            left: 0;
+            color: #03a9f4;
+            font-size: 12px;
+        }
+
+
+
+    .box2 input[type = "submit"] {
+        position: relative;
+        border: 0;
+        background: none;
+        display: block;
+        margin: 30px auto 25px auto;
+        text-align: center;
+        border: 2px solid #2ecc71;
+        padding: 10px 25px 12px 25px;
+        outline: none;
+        color: white;
+        border-radius: 24px;
+        transition: 0.25s;
+        cursor: pointer;
+        bottom: -40px;
+        font-size: 15pt;
+    }
+
+        .box2 input[type = "submit"]:hover {
+            background: #2ecc71;
+        }
+
+    .box2 input[type = "checkbox"] {
+        position: absolute;
+        left: 60px;
+        bottom: 127px;
+    }
+
+    .box2 div#RazorTermos {
+        position: absolute;
+        top: 523px;
+        margin-top: 30px;
+        left: 85px;
+        color: white;
+        font-family:;
+        font-size: 14pt;
+    }
+
+    .box2 a {
+        text-decoration: underline;
+        color: #03a9f4;
+    }
+
+    .box span#RazorTenhoConta {
+        position: absolute;
+        left: 2px;
+        bottom: 2px;
+    }

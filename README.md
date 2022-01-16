@@ -1,0 +1,1 @@
+O SISTEMA DE GERENCIAMENTO DE TRANSPORTE PÚBLICO (IBuS) é o Trabalho de Conclusão de Curso que eu e mais dois colegas desenvolvemos no curso técnico em informática na Etec Comendador João Rays. Para saber mais detalhes acesse tudo que foi desenvolvido que no caso é o Banner, Documentação e o Projeto.

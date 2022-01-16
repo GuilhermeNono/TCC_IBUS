@@ -1,0 +1,714 @@
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll.config
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.pdb
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Owin.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\WebGrease.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CopyComplete
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.dll
+C:\Users\PC\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.pdb
+E:\1\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll.config
+E:\1\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.pdb
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe.config
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.rsp
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe.config
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.rsp
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.AppContext.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Collections.Immutable.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Console.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Compression.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Reflection.Metadata.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.AccessControl.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Claims.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Principal.Windows.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.ValueTuple.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe.config
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.rsp
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe
+E:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe.config
+E:\1\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Web.Infrastructure.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\Owin.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\WebGrease.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.pdb
+E:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Helpers.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Mvc.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Optimization.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Razor.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csprojAssemblyReference.cache
+E:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CoreCompileInputs.cache
+E:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CopyComplete
+E:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.dll
+E:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.pdb
+F:\1\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll.config
+F:\1\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.pdb
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe.config
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.rsp
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe.config
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.rsp
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Managed.Core.targets
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.AppContext.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Collections.Immutable.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Console.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Compression.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Reflection.Metadata.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.AccessControl.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Claims.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Principal.Windows.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.ValueTuple.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XmlDocument.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe.config
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.rsp
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe
+F:\1\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe.config
+F:\1\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Web.Infrastructure.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\Owin.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\WebGrease.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.pdb
+F:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Helpers.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Mvc.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Optimization.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Razor.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csprojAssemblyReference.cache
+F:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CoreCompileInputs.cache
+F:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CopyComplete
+F:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.dll
+F:\1\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.pdb
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll.config
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.pdb
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Owin.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\WebGrease.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.pdb
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CopyComplete
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.dll
+C:\Users\etec\Desktop\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.pdb
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll.config
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.pdb
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe.config
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.rsp
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe.config
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.rsp
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.AppContext.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Collections.Immutable.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Console.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Compression.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Reflection.Metadata.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.AccessControl.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Claims.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.ValueTuple.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe.config
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.rsp
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe.config
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Web.Infrastructure.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Owin.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\WebGrease.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.pdb
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Helpers.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Mvc.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Optimization.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Razor.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csprojAssemblyReference.cache
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CoreCompileInputs.cache
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CopyComplete
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.dll
+F:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.pdb
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll.config
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\IBuS_6.0.pdb
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.exe.config
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csc.rsp
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.exe.config
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\csi.rsp
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.AppContext.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Collections.Immutable.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Console.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Compression.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.IO.Pipes.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Reflection.Metadata.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.AccessControl.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Claims.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.ValueTuple.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.exe.config
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\vbc.rsp
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\roslyn\VBCSCompiler.exe.config
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Web.Infrastructure.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Owin.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\WebGrease.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Helpers.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Mvc.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Optimization.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.Razor.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Deployment.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Web.WebPages.Razor.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Newtonsoft.Json.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Antlr3.Runtime.pdb
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\EntityFramework.SqlServer.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Google.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Helpers.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Mvc.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Optimization.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.Razor.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csprojAssemblyReference.cache
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CoreCompileInputs.cache
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.csproj.CopyComplete
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.dll
+G:\Etec\3° Módulo\DESENVOLVIMENTO TCC\1-IBuS\1- TCC Certo\IBuS_6.0\IBuS_6.0\obj\Debug\IBuS_6.0.pdb

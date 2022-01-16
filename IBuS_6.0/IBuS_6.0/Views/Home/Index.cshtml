@@ -1,0 +1,366 @@
+﻿@using IBuS_6._0.Models
+@model SendMail.Models.MailModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Index</title>
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/css/estilo.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+    <script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+    <script src="~/Scripts/js/JavaScript.js"></script>
+</head>
+<body>
+    <div>
+        <!--Início da Barra de Menu Superior-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a href="#" id="logoTopo"><img src="~/img/logo5.png" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Alterna navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav nav2">
+                    <li class="nav-item active">
+                        <a class="nav-link nav1" href="#comoFunciona">COMO FUNCIONA<span class="sr-only"></span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link nav1" href="#sobreNos">SOBRE NÓS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link nav1" href="#contato">CONTATO</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link text-primary" href="/Account/Login" id="Login">LOGIN</a>
+                        <a class="nav-link text-primary" href="/Account/Register" id="Register">REGISTER</a>
+                    </li>
+                </ul>
+            </div>
+            <a role="button" href="/Home/Mapa" class="btn btn-outline-primary" id="botao">VER OS PONTOS</a>
+        </nav>
+        <!--Inicio do Botão Retornar-->
+        <span class="BackToTop" data-placement="left" title="Voltar ao Topo">
+
+        </span>
+        <!--Fim do Botão Retornar-->
+        <!--Fim da Barra de Menu Superior-->
+        <!--Fim da Barra de Menu Superior-->
+
+        <h1 style="margin:50px auto 50px auto; text-align:center;">SISTEMA DE GERENCIAMENTO DE TRANSPORTE PÚBLICO</h1>
+
+        <!--Inicio do codigo carrossel-->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="3000">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <figure id="legendaCarousel">
+                        <img class="d-none d-md-block w-100" src="~/img/ca1.jpg" alt="First slide" />
+                        <img class="d-block d-md-none w-100" src="~/img/1v.jpg" alt="First slide" />
+                        <figcaption>
+                            <br />
+                            <h1>Bem vindo ao IBuS</h1>
+                            <p>
+                                O sistema de gerenciamento de transporte público (IBuS) tem como função auxiliar as pessoas com informações dos pontos, horários e o preço das passagens, ele é voltado principalmente para trabalhadores, estudantes e turistas entre 16 a 60 anos. Com o IBuS o transporte público será mais fácil de se utilizar a qualquer hora em qualquer lugar.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="carousel-item">
+                    <figure id="legendaCarousel">
+                        <img class="d-none d-md-block w-100" src="~/img/NewMap.jpg" alt="Third slide" />
+                        <img class="d-block d-md-none w-100" src="img/3v.jpg" alt="Third slide" />
+                        <figcaption>
+                            <br />
+                            <h1 style="position: absolute; right:41px">Porque usar o IBuS?</h1>
+                            <p id="caroMapa">
+                                O IBuS é foi feito para ter uma interface simples e de facil uso para que qualquer um possa utilizar do site. O sistema é utilizado em uma cidade pequena, onde outros aplicativos não dão suporte. também informará o preço das passagens, que os demais sistemas não informam.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="carousel-item">
+                    <figure id="legendaCarousel">
+                        <img class="d-none d-md-block w-100" src="~/img/ca7.jpg" alt="Second slide" />
+                        <img class="d-block d-md-none w-100" src="img/2v.jpg" alt="Second slide" />
+                        <figcaption>
+                            <br />
+                            <h1>Sistema IBuS</h1>
+                            <p>
+                                Esse sistema foi pensado porque o transporte público do Brasil sempre foi alvo de muitas reclamações ao longo do tempo. Na maioria das vezes as queixas referem-se a má qualidade dos serviços prestados, e também esse setor não tem a devida atenção quando o assunto é desenvolvimento tecnológico, por isso pretendemos ajudar nesse setor ao prover um sistema que auxilie os usuários de transporte público.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <!--Fim do codigo carrossel -->
+        <script>
+            var $doc = $('html, body');
+            $('a').click(function () {
+                $doc.animate({
+                    scrollTop: $($.attr(this, 'href')).offset().top
+                }, 1000);
+                return false;
+            });
+        </script>
+        <!--Inicio do Menu Como Funciona-->
+        <div class="conteudoComoFunciona" style="height:800px; background:#faf9f6;">
+            <hr id="comoFunciona" style="margin-top:50px;opacity:0;" />
+
+            <div style="text-align:center;margin:80px auto 65px auto;">
+                <h1 id="logoComoFunciona"></h1>
+            </div>
+
+            <!--<h4 id="logoFunTop">@*Funções ao topo da página*@</h4>
+            <div class="container">
+                <div class="card row" style="width:85%; left:50%; transform:translate(-50%);">
+                    <div class="card-header">
+                        <img src="~/img/navbar.jpg" style="position:relative; right:-50%;transform:translateX(-50%);" />
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Na página inicial do IBuS há uma barra localizada no topo da página, que acompanhará a tela conforme o usuário se movimenta pela página, nesta tem alguns botões que levará o usuário a um lugar específico, no caso os botões. "Como Funciona", "Sobre nós" e "Contato", cada um desses botões ao cliclar o usuário será redirecionado até o local com as informações desejadas.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <h4 id="logoLoginRegister">@*Como fazer um login ou Cadastro no IBuS:*@</h4>
+            <div class="container">
+                <div class="card row" style="width:85%;left:50%; transform:translate(-50%);">
+                    <div class="card-header">
+                        <img src="~/img/LoginRegister.jpg" style="position:relative; right:-50%;transform:translateX(-50%);" />
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Como pode ser notado no topo da página há uma barra com várias opções de navegação no site, no canto direito desta barra, notamos a área de login e registro. Para utilizar nossos serviços não é necessário um login ou registro, mas se preferir criar uma conta você deve clicar no link “Register” que irá te direcionar para outra pagina onde você informar todos os seus dados lá pedidos, após informar seus dados e concordar com os “Termos e Política de Privacidade”, clique no botão “Registrar-Se”, a partir daí sua conta já estará cadastrada e poderá desfrutar dos outros recursos.
+                        </p>
+                        <p class="card-text">
+                            Se você sair de sua conta ou precisar entrar em outra, você clicar no link login que te direcionará para outra pagina onde informará seu e-mail e senha informados durante o seu registro. Durante o login é possível marcar a opção “Lembrar Usuário” para caso feche seu navegador continue com sua conta conectada ao sistema.
+                        </p>
+                        <p class="card-text">
+                            Também há a opção “Esqueci minha senha”, para caso perca a senha de sua conta, que ao clicar irá te mandar para uma página onde informará seu e-mail para que seja enviado ao mesmo, um e-mail com a possibilidade de informar uma nova senha.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <h4 id="looMapaFun">@*Como Usar o Mapa e suas funções:*@</h4>
+            <div class="container">
+                <div class="card row" style="width:85%;left:50%; transform:translate(-50%);">
+                    <div class="card-header">
+                        <img src="~/img/botao.jpg" style="position:relative; right:-50%;transform:translateX(-50%);" />
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            No centro da barra superior é possível notar o botão que levará o usuário ao mapa, que fica em outra pagina, no mapa é possível ver os pontos de parada de ônibus, o preço da passagem, horários, entre outros.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <h4 id="logoBotReturnTop">@*Botão para retornar ao topo:*@</h4>
+            <div class="container">
+                <div class="card row" style="width:85%;left:50%; transform:translate(-50%);">
+                    <div class="card-header">
+                        <img src="~/img/BackToTop.jpg" style="position:relative; right:-50%;transform:translateX(-50%);" />
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Quando você descer a página, note que no lado inferior direito irá aparecer um ícone com uma seta para cima, que quando passar o mouse ira aparecer o logo do sistema e ao clicar você será  direcionado novamente ao topo da página.
+                        </p>
+                    </div>
+                </div>
+            </div>-->
+            <div style="position:absolute;left:550px; margin-top:-18px;">
+                <hr />
+                <h5 style="font-weight:bolder">Abra o mapa</h5>
+                <p style="font-size:12pt; max-width:700px;">
+                    Para acessar o mapa, ao topo da página há um botão que ao clicar o usuário será redirecionado a outra tela contendo o mesmo, ele mostrará os diversos pontos de ônibus espalhados pela cidade.
+                </p>
+                <hr />
+            </div>
+            <div class="circle" id="circle1" style="margin-top:80px;">
+                <h1 style="text-align:center; margin-top:32px;">1</h1>
+            </div>
+            <div style="position:absolute;left:550px; margin-top:-18px;">
+                <hr />
+                <h5 style="font-weight:bolder">Se localize nos pontos</h5>
+                <p style="font-size:12pt; max-width:700px;">
+                    O mapa tem vários pontos, cada um com sua própria informação, e ao interagir com cada ponto o usuário saberá o nome do local ou da rua onde fica o ponto de ônibus para que facilite na hora de encontrá-los.
+                </p>
+                <hr />
+            </div>
+            <div class="circle" id="circle2">
+                <h1 style="text-align:center; margin-top:32px;">2</h1>
+            </div>
+            <div style="position:absolute;left:550px; margin-top:-18px;">
+                <hr />
+                <h5 style="font-weight:bolder">Desfrute das informações apresentadas</h5>
+                <p style="font-size:12pt; max-width:700px;">
+                    Cada ponto do mapa apresenta os diversos horários dos ônibus que passarão por ele, e junto com os horários tem os preços das passagens dos ônibus no dia atual.
+                </p>
+                <hr />
+            </div>
+            <div class="circle" style="" id="circle3">
+                <h1 style="text-align:center; margin-top:32px;">3</h1>
+            </div>
+
+
+        </div>
+        <!--Fim do Menu Como Funciona-->
+        <!--Inicio do Menu Sobre Nos-->
+        <hr id="sobreNos" style="opacity:0;" />
+        <div style="text-align:center;margin:70px auto 60px auto;">
+            <h1 id="logoSobreNos"></h1>
+        </div>
+        <div class="conteudoSobreNos">
+            <div class="squad1">
+                <div class="gui">
+                    <p>
+                        Meu nome é Guilherme Nono, tenho 17 anos, moro em Igaraçu do Tietê, faço o 3º ano do ensino médio na escola Camilo Sahade e faço curso Técnico de Informática na escola Etec Comendador João Rays.
+                    </p>
+                    <p>
+                        No Projeto IBuS desenvolvi o mapa do sistema utilizando JavaScript (uma linguagem nova até então), onde produzi o mapa como um todo junto com seus pontos de parada, horários e os preços das passagens, também ajudei em algumas partes da index e da documentação.
+                    </p>
+                </div>
+            </div>
+            <div class="squad2">
+                <div class="marcos">
+                    <p>
+                        Meu nome é Marcos Eduardo Oliveira Santos, tenho 17 anos, moro em Igaraçu do Tietê, faço o 3º ano do ensino médio na escola Camilo Sahade e faço curso Técnico de Informática na escola Etec Comendador João Rays.
+                    </p>
+                    <p>
+                        No Projeto IBuS eu era encarregado da criação da página inicial/principal do sistema e as telas de login e registro de usuário, onde desenvolvi desde todo o código das páginas até o seu design e contribui em partes do mapa. Além disso produzi todo o Banco de Dados do site.
+                    </p>
+                </div>
+            </div>
+            <div class="squad3">
+                <div class="ga">
+                    <p>
+                        Meu nome é Gabriel Antônio da Costa de Morais, tenho 16 anos, moro em Igaraçu do Tietê, faço o 3º ano do ensino médio na escola Camilo Sahade e faço curso Técnico de Informática na escola Etec Comendador João Rays.
+                    </p>
+                    <p>
+                        No Projeto IBuS eu sou responsável por toda a documentação do projeto, onde apresentei todas as informações durante o desenvolvimento do site. Também ajudei no desenvolvimento em partes na produção das páginas e do mapa desse sistema.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+        <!--Fim do Menu Sobre Nos-->
+        <!--Inicio do Menu Contato-->
+        <div class="conteudoComoFunciona" style="background: #faf9f6;">
+            <hr id="contato" style="margin:60px auto 60px auto;" />
+            <div style="text-align:center;margin:40px auto 40px auto;">
+                <h1 id="logoContato"></h1>
+            </div>
+            <div style="width:100%; height:610px;">
+                <div class="contact-section">
+                    @*<div class="border"></div>*@
+                    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new
+                    {
+                        @class = "contact-form",
+                        role = "form"
+                    }))
+                    {
+                        @Html.ValidationSummary()
+                        @Html.AntiForgeryToken()
+
+                        @Html.TextBoxFor(m => m.Subject, new { @class = "contact-form-text", placeholder = "Seu Nome" })
+                        @Html.TextBoxFor(m => m.From, new { @class = "contact-form-text", placeholder = "E-mail" })
+                        @Html.TextAreaFor(m => m.Body, new { @class = "contact-form-text", placeholder = "Sua Mensagem" })
+                        <input type="submit" id="btnEnviar" class="contact-form-btn" value="Enviar" onclick="pop()" />
+
+                        <div id="box">
+                            <span class="ion-checkmark-round"></span>
+                            <h1>Muito obrigado por deixar o sua menssagem!</h1>
+
+                            <a onclick="pop()" class="close">Close</a>
+                        </div>
+                        <script type="text/javascript">
+                            var c = 0;
+                            function pop() {
+                                if (c == 0) {
+                                    document.getElementById("box").style.display = "block";
+                                    c = 1;
+                                } else {
+                                    document.getElementById("box").style.display = "none";
+                                    c = 0;
+                                }
+                            }
+                        </script>
+                    }
+                </div>
+            </div>
+        </div>
+        <!--Fim do Menu Contato-->
+        <!-- Footer -->
+        <footer class="rodape">
+            <!-- Footer Elements -->
+            <div style="background:#263238; height:130px; width:100%;">
+                <h2 style="position:absolute;top:15%; left:27%; transform:translate(0%,-50%);">"Ajudando a vizinhança com rapidez e segurança."</h2>
+
+                @*<i class="fas fa-envelope" style="position:absolute; right:2%; padding-right:5px; top:30px;">&nbsp;&nbsp;IBuS.contato@gmail.com</i>
+                    <br />
+                    <i class="fas fa-map-marker-alt" style="position:absolute; right:1.6%;">&nbsp;&nbsp;Rua Ludovico Victório, <br />2140 - Vila Hab., Barra Bonita<br /> - SP, 17340-000</i>*@
+
+            </div>
+            <div style="background:#263238; height:90px; width:100%; border-top:1px solid black;">
+
+                <i class="fas fa-envelope" style="position:absolute; top:37%; left:50%; transform:translate(-50%); padding-right:5px;">&nbsp;&nbsp;IBuS.contato@gmail.com</i>
+                <br />
+                <i class="fas fa-map-marker-alt" style="position:absolute; margin-top:25px; left:50%; transform:translate(-50%);">&nbsp;&nbsp;Rua Ludovico Victório, 2140 - Vila Hab., Barra Bonita - SP, 17340-000</i>
+
+            </div>
+            <div style="border-bottom:1px solid black;"></div>
+            <div style="background:#263238; height:130px; width:100%;">
+                <div class="middle">
+                    <a class="linksRodape" href="#">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="linksRodape" href="#" target="_blank">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a class="linksRodape" href="#" target="_blank">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a class="linksRodape" href="#" target="_blank">
+                        <i class="fab fa-google"></i>
+                    </a>
+                    <a class="linksRodape" href="#" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a class="linksRodape" href="#" target="_blank">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+                <!-- Footer Elements -->
+                <!-- Copyright -->
+            </div>
+            <div style="background:#1e282d; height:60px; width:100%;">
+                <h6 style="position:relative; top:50%; left:50%; transform:translate(-50%, -50%); color:white; text-align:center;">
+                    IBuS &copy; 2019. Todos os direitos Reservados.
+                </h6>
+            </div>
+            <!-- Copyright -->
+
+        </footer>
+        <!-- Footer -->
+    </div>
+    <script src="~/Scripts/js/jquery-3.0.0.js"></script>
+    <script src="~/Scripts/js/bootstrap.js"></script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+﻿@model IBuS_6._0.Models.RegisterViewModel
+@{
+    Layout = null;
+}
+
+<span class="backToIndex" data-placement="left" title="Voltar a pagina inicial">
+    <a href="/Home">
+
+    </a>
+</span>
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "box2", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <!-- Nome Completo -->
+    <h1>REGISTRO</h1>
+    <div class="inputBox">
+        @Html.TextBoxFor(m => m.NomeCompleto, new { @class = "form-control", required = "", type = "text" })
+        @Html.LabelFor(m => m.NomeCompleto, "Nome Completo")
+    </div>
+    <!-- Email -->
+    <div class="inputBox">
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", required = "", type = "email" })
+        @Html.LabelFor(m => m.Email, "E-mail")
+    </div>
+
+    <!-- password -->
+
+    <div class="inputBox">
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control", required = "", type = "password" })
+        @Html.LabelFor(m => m.Password, "Senha")
+    </div>
+
+    <!-- confirmar password -->
+
+    <div class="inputBox">
+        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", required = "", type = "password" })
+        @Html.LabelFor(m => m.ConfirmPassword, "Confirme sua senha")
+    </div>
+
+    <!-- Data de nascimento -->
+
+    <div class="inputBox">
+        @Html.TextBoxFor(m => m.Nascimento, new { @class = "form-control", type = "date" })
+        @Html.LabelFor(m => m.Nascimento, "Data de Nascimento")
+    </div>
+
+    <!-- CEP -->
+    <div class="inputBox">
+        @Html.TextBoxFor(m => m.CEP, new { @class = "form-control", required = "", type = "number" })
+        @Html.LabelFor(m => m.CEP, "CEP")
+    </div>
+
+    <div class="checkbox2">
+        @Html.CheckBoxFor(m => m.Termos, new { @class = "form-control", type = "checkbox" })
+    </div>
+    <div id="RazorTermos">
+        @Html.LabelFor(m => m.Termos, "Ao clicar você concorda com os ")@Html.ActionLink("Termos e Política de Privacidade", "Termos", "Home")@Html.LabelFor(m => m.Termos, " de uso.")
+        @*<label for="iCbx" id="RazorTermos">Ao clicar você concorda com os @Html.ActionLink("Termos e Política de Privacidade", "Termos", "Home") de uso.</label>*@
+    </div>
+
+    <input type="submit" href="/Account/Login" value="Registrar-se" />
+}
+<link href="~/Content/css/LoginRegistro.css" rel="stylesheet" />
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

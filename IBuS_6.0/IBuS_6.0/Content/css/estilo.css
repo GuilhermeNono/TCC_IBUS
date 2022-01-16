@@ -1,0 +1,594 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css');
+
+body {
+    -webkit-animation: fadein 0.5s linear 1 normal forwards;
+    background: #fff;
+    font-family: 'Raleway', sans-serif;
+    /*font-size: 20px;
+    overflow: hidden;
+    text-transform: upper case;
+    font-weight: bold;
+    letter-spacing: 1px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;*/
+}
+
+@-webkit-keyframes fadein {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+a#logoTopo {
+    position: absolute;
+    top: 1%;
+    left: 3%;
+    z-index: 99999;
+}
+
+nav {
+    margin-top: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 60px;
+    background: rgba(255,255,255,.8);
+    border-top: 1px solid rgba(255,255,255,.2);
+    border-bottom: 1px solid rgba(255,255,255,.2);
+    position: sticky !important;
+    top: 0%;
+    z-index: 9999;
+}
+
+    nav ul {
+        display: flex;
+        margin: 0;
+        padding: 0 20px;
+    }
+
+        nav ul li {
+            list-style: none;
+            margin: 10px;
+        }
+
+            nav ul li a {
+                display: block;
+                color: #fff;
+                padding: 0 20px;
+                text-decoration: none;
+                text-transform: uppercase;
+                font-weight: bold;
+                line-height: 50px;
+            }
+
+.navbar-nav .nav-link {
+    color: white;
+    font-weight: bold;
+    font-size: 15pt;
+    margin: 1px;
+}
+
+
+
+a#Login {
+    position: absolute;
+    top: 3px;
+    right: 120px;
+    color: white;
+    font-weight: bolder;
+    font-size: 15pt;
+}
+
+a#Register {
+    position: absolute;
+    top: 3px;
+    right: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: 15pt;
+}
+    a#Login:hover, a#Register:hover {
+        text-decoration: underline;
+    }
+
+
+.nav-link {
+    margin: auto 10px;
+    border: 1px solid none;
+    background: none;
+    padding: unset;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: monospace;
+    cursor: pointer;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+    z-index: 999999;
+}
+
+.nav1 {
+    color: black !important;
+}
+
+.nav2 {
+    position:relative;
+    left:60.5%;
+}
+
+    .nav1:hover {
+        color: white !important;
+    }
+
+.nav-link::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: black;
+    /*background: #5cefdc;  <<<<< cor anterior */
+    z-index: -1;
+    transition: 0.8s;
+}
+
+.nav1::before {
+    top: 0;
+    border-radius: 0 0 50% 50%;
+}
+
+.nav1:hover::before {
+    height: 180%;
+}
+
+a#botao {
+    position: absolute;
+    text-align: center;
+    right: 41.5%;
+}
+
+.BackToTop {
+    width: 89px;
+    height: 61px;
+    display: block;
+    background: url(../../img/topo1.png) no-repeat;
+    position: fixed;
+    bottom: 10px;
+    right: 5px;
+    z-index: 99999999;
+}
+
+    .BackToTop:hover {
+        cursor: pointer;
+        transition: 0.5s;
+        background-position: 0 -60px;
+        width: 89px;
+        height: 61px;
+        background: url(../../img/logo1.png) no-repeat;
+    }
+
+p {
+    text-align: justify;
+    position: relative;
+    width: 100%;
+    max-width: 1550px;
+    margin: 10px auto;
+}
+
+figure#legendaCarousel {
+    position: relative;
+    border: 0px solid rgba(0,0,0,.1);
+    box-shadow: 1px 1px 4px black;
+}
+
+    figure#legendaCarousel img {
+        width: 100%;
+        height: 100%;
+    }
+
+    figure#legendaCarousel figcaption {
+        position: absolute;
+        top: 0px;
+        /*background-color: rgba(0,0,0,.4);*/
+        color: black;
+        width: 100%;
+        height: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+        transition: opacity 1s;
+        z-index: 10;
+    }
+
+        figure#legendaCarousel figcaption p {
+            position: absolute;
+            left: 10px;
+            top: 100px;
+            max-width: 500px;
+        }
+
+            figure#legendaCarousel figcaption p#caroMapa {
+                position: absolute;
+                right: -1150px;
+                top: 100px;
+                max-width: 400px;
+            }
+
+            /*COMO FUNCIONA*/
+
+h1#logoComoFunciona {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    width: 573px;
+    height: 84px;
+    background: url('../../img/COMOFUNCIONA.png');
+}
+
+h4#logoFunTop {
+    width: 573px;
+    height: 55px;
+    background: url('../../img/logoFunTop.png')no-repeat;
+    margin: 50px;
+}
+
+h4#logoLoginRegister {
+    width: 700px;
+    height: 44px;
+    background: url('../../img/loginRegister.png')no-repeat;
+    margin: 50px;
+}
+
+h4#looMapaFun {
+    width: 700px;
+    height: 50px;
+    background: url('../../img/mapaFun.png')no-repeat;
+    margin: 50px;
+}
+
+h4#logoBotReturnTop {
+    width: 573px;
+    height: 47px;
+    background: url('../../img/BotReturnTop.png')no-repeat;
+    margin: 50px;
+}
+
+.conteudoComoFunciona hr {
+    opacity: 0;
+}
+
+.conteudoComoFunciona div:hover hr {
+    opacity: 1;
+}
+
+
+
+/*Sobre Nós*/
+
+
+.conteudoSobreNos {
+    max-width: 1500px;
+    width: 100%;
+    left: 10%;
+}
+
+h1#logoSobreNos {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    width: 573px;
+    height: 84px;
+    background: url('../../img/SOBRENOS.png')no-repeat;
+}
+
+.squad1 {
+    width: 260px;
+    height: 250px;
+    background: url('../../img/back.png') no-repeat;
+    background-size: cover;
+    position: relative;
+    right: -73%;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.gui {
+    max-width: 800px;
+    position: absolute;
+    left: -850px;
+    top: 0px;
+    font-size: 18px;
+}
+
+.squad2 {
+    width: 290px;
+    height: 250px;
+    background: url('../../img/FrontEnd1.jpg') no-repeat;
+    background-size: cover;
+    position: relative;
+    right: -10%;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.marcos {
+    max-width: 780px;
+    position: absolute;
+    right: -830px;
+    top: 17px;
+    font-size: 18px;
+}
+
+
+.squad3 {
+    width: 260px;
+    height: 250px;
+    background: url('../../img/doc1.jpg') no-repeat;
+    background-size: 100% 95%;
+    position: relative;
+    right: -73%;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.ga {
+    max-width: 800px;
+    position: absolute;
+    left: -850px;
+    top: 18px;
+    font-size: 18px;
+}
+
+.circle {
+    border-radius: 100%;
+    border: 1px solid white;
+    height: 120px;
+    width: 120px;
+    margin: 10px auto 20px 355px;
+    box-shadow: 1px 0px 2px 3px rgba(0,0,0,.5);
+    cursor: pointer;
+    transition: all .4s ease-in;
+}
+
+    .circle:hover {
+        transform: scale(1.2);
+    }
+
+div#Gui {
+    position: absolute;
+    top: 2620px;
+    background: url(../../img/Guizera.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 230px 350px;
+    background-color: white;
+}
+
+    div#Gui:hover {
+        background-position: 0px 0px;
+        background-size: 150px 150px;
+    }
+
+div#Marcos {
+    position: absolute;
+    top: 2788px;
+    background: url(../../img/Marcola.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 230px 350px;
+    background-color: white;
+}
+
+    div#Marcos:hover {
+        background-position: 0px 0px;
+        background-size: 150px 150px;
+    }
+
+div#Ga {
+    position: absolute;
+    top: 2956px;
+    background: url(../../img/Gazera.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 230px 350px;
+    background-color: white;
+}
+
+    div#Ga:hover {
+        background-position: 0px 0px;
+        background-size: 150px 150px;
+    }
+
+/*Contato*/
+h1#logoContato {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    width: 573px;
+    height: 84px;
+    background: url("../../img/CONTATO.png")no-repeat;
+}
+
+.contact-section {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50.5%;
+    padding: 30px 0;
+    /*border: 2px solid black;*/
+    border-radius: 35px;
+    margin-bottom: 10px;
+    /*background: url(../../img/contato.jpg) no-repeat;*/
+    /*background-size:contain;*/
+}
+
+/*.border {
+    width: 100px;
+    height: 10px;
+    background: #34495e;
+    margin: 40px auto;
+}*/
+
+.contact-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+.contact-form-text {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 1px solid #aaa;
+    border-radius: 20px;
+    /*background: #111;*/
+    padding: 20px 40px;
+    outline: none;
+    color: black;
+    transition: 0.5s;
+}
+
+    .contact-form-text:focus {
+        box-shadow: 0 0 10px 4px #34495e;
+    }
+
+textarea.contact-form-text {
+    resize: none;
+    height: 140px;
+}
+
+.contact-form-btn {
+    float: right;
+    border: 0;
+    background: #34495e;
+    color: #fff;
+    padding: 12px 50px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+    .contact-form-btn:hover {
+        background: #2980b9;
+    }
+
+#box {
+    width: 500px;
+    overflow: hidden;
+    background: #f1f1f1;
+    box-shadow: 0 0 20px black;
+    border-radius: 8px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 99999;
+    padding: 10px;
+    text-align: center;
+    display: none;
+}
+
+    #box span {
+        color: #2ecc71;
+        font-size: 55px;
+        display: block;
+        margin: 20px 0;
+    }
+
+    #box h1 {
+        color: #333;
+        font-size: 20px;
+    }
+
+.close {
+    font-size: 20px;
+    color: white;
+    padding: 10px 30px;
+    cursor: pointer;
+    background: #3498db;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+
+/*Rodapé*/
+.rodape {
+    position: absolute;
+    background-color: black;
+    margin-top: 0%;
+    /*height: 22%;*/
+    width: 100%;
+    color:white;
+}
+
+.middle {
+    position: absolute;
+    /*top: 35%;*/
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+.linksRodape {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background: #f1f1f1;
+    margin: 10px;
+    border-radius: 30%;
+    box-shadow: 0 5px 15px -5px #000040;
+    color: #3498db;
+    overflow: hidden;
+    position: relative;
+}
+
+    .linksRodape i {
+        line-height: 80px;
+        font-size: 26px;
+        transition: 0.2s linear;
+    }
+
+    .linksRodape:hover i {
+        transform: scale(1.3);
+        color: #f1f1f1;
+    }
+
+    .linksRodape::before {
+        content: "";
+        position: absolute;
+        width: 120%;
+        height: 120%;
+        background: #3498db;
+        transform: rotate(45deg);
+        left: -110%;
+        top: 90%;
+    }
+
+    .linksRodape:hover::before {
+        animation: aaa 0.7s 1;
+        top: -10%;
+        left: -10%;
+    }
+
+@keyframes aaa{
+        0% {
+            left: -110%;
+            top: 90%;
+        }
+        50% {
+            top: 10%;
+            left: -30%;
+        }
+        100% {
+            top: -10%;
+            left: -10%;
+        }
+    }
+
+

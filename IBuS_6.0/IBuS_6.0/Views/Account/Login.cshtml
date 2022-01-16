@@ -1,0 +1,62 @@
+﻿@using IBuS_6._0.Models
+@model LoginViewModel
+
+@{
+    Layout = null;
+}
+<head>
+    <!--<script>
+        var a = document.querySelector(".blur");
+
+        if (document.getElementById("init")) {
+            a;
+        } else {
+
+        }
+
+
+
+
+    </script>-->
+
+
+
+
+</head>
+<body class="blur">
+    <span class="backToIndex" data-placement="left" title="Voltar a pagina inicial">
+        <a href="/Home"></a>
+    </span>
+
+    @*<form class="box" action="View3" method="post">*@
+    @*<form class="box" action="View3" method="post">*@
+    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "box", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        <h1>Login</h1>
+        @*<input type="email" name="edtNome" value="" placeholder="Email" />*@
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", Placeholder = "E-mail", Type = "email" })
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+
+        @*<input type="password" name="edtSenha" value="" placeholder="Senha" />*@
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control", Placeholder = "Senha", Type = "password" })
+        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+        @*<input type="checkbox" name="cbxLembrarUsuario" id="cbxLemUsuario" value="" />
+            <label for="cbxLemUsuario">Lembrar Usuario</label>*@
+        <div class="checkbox">
+            @Html.CheckBoxFor(m => m.RememberMe, new { @class = "checkbox1" })
+            @Html.LabelFor(m => m.RememberMe, "Lembrar Usuário")
+        </div>
+        @Html.ActionLink("Esqueci Minha Senha", "ForgotPassword", "Account", new { @class = "RazorEsqSenha" })
+        @Html.ActionLink("Não Tenho Uma Conta", "Register", "Home", new { @class = "RazorNaoConta" })
+
+        <input type="submit" name="btnLogin" value="Login" />
+    }
+    <link href="~/Content/css/loginRegisterMedia.css" rel="stylesheet" />
+    <link href="~/Content/css/LoginRegistro.css" rel="stylesheet" />
+</body class="blur">
+    @*</form>*@
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

@@ -1,0 +1,144 @@
+﻿body {
+}
+
+@media only screen and (max-width: 600px) {
+    .box {
+        width: 50px;
+        padding: 40px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: blue;
+        /*background: rgba(0,0,0,.8);*/
+        border-radius: 25px;
+        text-align: center;
+        -webkit-animation: fadein 1.5s linear 1 normal forwards;
+    }
+
+    @-webkit-keyframes fadein {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    .box h1 {
+        color: white;
+        text-transform: uppercase;
+        font-weight: bolder;
+        position: relative;
+        top: -15px;
+    }
+
+    .box input[type = "email"], .box input[type = "password"] {
+        border: 0;
+        background: none;
+        display: block;
+        margin: 30px auto;
+        text-align: center;
+        border: 2px solid #3498db;
+        padding: 14px 10px;
+        width: 400px;
+        outline: none;
+        color: white;
+        border-radius: 24px;
+        transition: 0.25s;
+    }
+
+        .box input[type = "email"]:focus, .box input[type = "password"]:focus {
+            width: 280px;
+            border-color: #2ecc71;
+        }
+
+    .box input[type = "submit"] {
+        position: relative;
+        border: 0;
+        background: none;
+        display: block;
+        margin: 30px auto 25px auto;
+        text-align: center;
+        border: 2px solid #2ecc71;
+        padding: 10px 25px 12px 25px;
+        outline: none;
+        color: white;
+        border-radius: 24px;
+        transition: 0.25s;
+        cursor: pointer;
+        bottom: -40px;
+        font-size: 15pt;
+    }
+
+        .box input[type = "submit"]:hover {
+            background: #2ecc71;
+        }
+    /*.box input[type = "checkbox"] {
+        position: absolute;
+        left: 60px;
+        bottom:107px;
+    }*/
+
+    .checkbox {
+        position: absolute;
+        left: 110px;
+    }
+
+    .checkbox1:hover, .box label:hover {
+        cursor: pointer;
+    }
+
+    .box label {
+        /*position: absolute;
+        top:253px;
+        margin-top:30px;
+        left: 80px;*/
+        position: relative;
+        top: -1px;
+        color: white;
+    }
+
+    .RazorEsqSenha {
+        color: #808080;
+        text-decoration: none;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+
+    .RazorNaoConta {
+        color: #808080;
+        text-decoration: none;
+        position: absolute;
+        left: 10px;
+        bottom: 10px;
+    }
+
+        .RazorEsqSenha:hover, .RazorNaoConta:hover {
+            text-decoration: underline;
+        }
+
+    /*backToIndex*/
+
+    .backToIndex a {
+        width: 89px;
+        height: 71px;
+        display: block;
+        background: url('../../img/voltarIndex.png') no-repeat;
+        position: fixed;
+        top: 6.5px;
+        left: 6.5px;
+        z-index: 99999;
+    }
+
+    .backToIndex:hover a {
+        cursor: pointer;
+        transition: 0.5s;
+        background-position: 0 -60px;
+        width: 100px;
+        height: 100px;
+        background: url('../../img/logo1.png') no-repeat;
+    }
+}
